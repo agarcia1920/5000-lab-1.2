@@ -1,0 +1,126 @@
+---
+title: "Lab 1.2"
+bibliography: reference.bib
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+<img src="healy.jpg" alt="A photo of Healy Hall." width="600" height="375">
+
+## Section 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in
+voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+| Doja Cat              | Charli XCX   | Troye Sivan          |
+|-----------------------|--------------|----------------------|
+| Paint the Town Red    | 360          | Rush                 |
+| Agora Hills           | Apple        | One of Your Girls    |
+| Attention             | Von Dutch    | Got Me Started       |
+
+: Songs {#tbl-letters}
+
+See @tbl-letters.
+
+{{< video https://youtu.be/bNSSh1q91Vw?si=jNMLvYu7J7UVLaZO width="800" height="500" >}}
+
+## Section 2
+
+::: {layout-ncol=2}
+### Pros
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.
+- Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat.
+
+### Cons
+
+- Duis aute irure dolor in reprehenderit in
+voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+:::
+
+$\begin{bmatrix}a&b\\c&d\end{bmatrix}^{-1} =\dfrac{\begin{bmatrix}d&-b\\-c&a\end{bmatrix}} {\begin{vmatrix}a&b\\c&d\end{vmatrix}} = \dfrac1{ad-bc}{\begin{bmatrix}d&-b\\-c&a\end{bmatrix}}$
+: How to calculate the inverse of a 2x2 matrix.
+
+$$  \lim_{x \to \infty} \frac{44x^2 + 10}{11x^2 + 36} = 4. $$
+: Basic limit equation.
+
+```{mermaid}
+%%| fig-cap: "A Math Mermaid diagram"
+%%| code-fold: false
+flowchart LR
+  A[Calculus I & II] --> B(Multivariable Calculus)
+  B --> C{Proofs and Problem Solving}
+  C --> D[Ordinary Differential Equations]
+  C --> E[Analysis I]
+```
+
+## Section 3
+
+:::: {.columns}
+::: {.column width="50%"}
+### Chapter 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. 
+
+:::
+
+::: {.column width="50%"}
+### Chapter 2
+
+Duis aute irure dolor in reprehenderit in
+voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+:::
+::::
+
+<img src="bridge.jpg" alt="A photo of the Verrazzano Bridge." width="600" height="375">
+
+> Modern English, especially written English, is full of bad habits which spread by imitation and which can be avoided if one is willing to take the necessary trouble. If one gets rid of these habits one can think more clearly, and to think clearly is a necessary first step toward political regeneration: so that the fight against bad English is not frivolous and is not the exclusive concern of professional writers.[^quote-1]
+
+[^quote-1]: George Orwell, “Politics and the English Language,” The Orwell Foundation, n.d., https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/
+
+
+>The trend is
+strikingly clear: at every activity level, generalist users are much
+more likely to remain on Spotify than specialist users. Furthermore,
+the effect is very large. For example, among the least active users,
+specialists churn at a rate 30 percentage points (p.p.) higher than
+the global average, whereas the same figure is only 5 p.p. above
+average for generalists at the same activity level. Among highly
+active users, the specialists’ churn rate is 3 p.p above average while
+generalists churn 7 p.p below average. Additionally, at the higher
+activity levels, changes in the GS-score are much more associated
+with changes in user retention than changes in activity are (the
+high-activity curves in Figure 5 start to overlap each other). This is
+especially remarkable given that user engagement (i.e. activity) is
+traditionally the strongest predictor of user retention. (Anderson et al. 2020)
+
+>There are varieties of online infrastructure that have been prepared by many educational firms and made free for learning during this pandemic. The affordability and accessibility to these online infrastructures for all the learners of varied economic backgrounds are still a challenge.
+Students with special needs having learning difficulties, such as hearing impairment, visual impairment and mobility disabilities, require additional training with support and guidance. Many caregivers and parents at home are not able to cater to such needs, hindering the learning of this group of learners. Therefore, there is a need for investing time and resources to explore and research the best alternatives for the special educational needs (SEN) of these learners.
+As all students’ assignments and examinations are carried out from home, it is challenging for educators to find the authenticity of the work and the actual learning taking place. Moreover, many parents guide and support their children during their learning process, and the extent and degree of support varies greatly. Grading of students is another area of study as no proper criteria are developed and effectively used. (Pokhrel and Chhetri 2021)
+
+### References
+
+::: {#refs}
+@pokhrel2021literature
+@anderson2020algorithmic
+:::

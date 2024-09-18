@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "slides/slides.html#covid-article",
+    "href": "slides/slides.html#covid-article",
+    "title": "My First Presentation",
+    "section": "COVID Article",
+    "text": "COVID Article\n\nThe use of online platforms such as Google Classroom, Zoom, virtual learning environment and social media and various group forums like Telegram, Messenger, WhatsApp and WeChat are explored and tried for teaching and learning for the first time ever to continue education. This can be explored further even after face-to-face teaching resumes, and these platforms can provide additional resources and coaching to the learners.\n\n\nPokhrel and Chhetri (2021)\n\nPokhrel, Sumitra, and Roshan Chhetri. 2021. “A Literature Review on Impact of COVID-19 Pandemic on Teaching and Learning.” Higher Education for the Future 8 (1): 133–41."
+  },
+  {
+    "objectID": "slides/slides.html#caroline-polachek",
+    "href": "slides/slides.html#caroline-polachek",
+    "title": "My First Presentation",
+    "section": "Caroline Polachek",
+    "text": "Caroline Polachek\n\nAlbums since 2020:\nDesire, I Wanna Turn Into You (2023)"
+  },
+  {
+    "objectID": "slides/slides.html#charli-xcx",
+    "href": "slides/slides.html#charli-xcx",
+    "title": "My First Presentation",
+    "section": "Charli XCX",
+    "text": "Charli XCX\n\nAlbums since 2020:\nBrat (2024)\nCrash (2022)\nHow I’m Feeling Now (2020)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#header-1",
+    "href": "about.html#header-1",
+    "title": "About",
+    "section": "Header 1",
+    "text": "Header 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nimport matplotlib.pyplot as plt\nx = [1,2,3,4,5]\ny = [1,4,27,256,3125]\n\nplt.plot(x,y)\nplt.xlabel(\"X\")\nplt.ylabel(\"X to the power of X on the interval [1,5]\")\nplt.show()"
+  },
+  {
+    "objectID": "about.html#header-2",
+    "href": "about.html#header-2",
+    "title": "About",
+    "section": "Header 2",
+    "text": "Header 2\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "objectID": "about.html#header-3",
+    "href": "about.html#header-3",
+    "title": "About",
+    "section": "Header 3",
+    "text": "Header 3\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab 1.2",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Lab 1.2",
+    "section": "Section 1",
+    "text": "Section 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nTable 1: Songs\n\n\n\n\n\nDoja Cat\nCharli XCX\nTroye Sivan\n\n\n\n\nPaint the Town Red\n360\nRush\n\n\nAgora Hills\nApple\nOne of Your Girls\n\n\nAttention\nVon Dutch\nGot Me Started\n\n\n\n\n\n\nSee Table 1."
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "Lab 1.2",
+    "section": "Section 2",
+    "text": "Section 2\n\n\n\n\n\n\nPros\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\n\nCons\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\\(\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}^{-1} =\\dfrac{\\begin{bmatrix}d&-b\\\\-c&a\\end{bmatrix}} {\\begin{vmatrix}a&b\\\\c&d\\end{vmatrix}} = \\dfrac1{ad-bc}{\\begin{bmatrix}d&-b\\\\-c&a\\end{bmatrix}}\\)\n\nHow to calculate the inverse of a 2x2 matrix.\n\n\\[  \\lim_{x \\to \\infty} \\frac{44x^2 + 10}{11x^2 + 36} = 4. \\]\n\nBasic limit equation.\n\n\n\n\n\n\n\nflowchart LR\n  A[Calculus I & II] --&gt; B(Multivariable Calculus)\n  B --&gt; C{Proofs and Problem Solving}\n  C --&gt; D[Ordinary Differential Equations]\n  C --&gt; E[Analysis I]\n\n\n A Math Mermaid diagram"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "Lab 1.2",
+    "section": "Section 3",
+    "text": "Section 3\n\n\n\nChapter 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\n\nChapter 2\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\nModern English, especially written English, is full of bad habits which spread by imitation and which can be avoided if one is willing to take the necessary trouble. If one gets rid of these habits one can think more clearly, and to think clearly is a necessary first step toward political regeneration: so that the fight against bad English is not frivolous and is not the exclusive concern of professional writers.1\n\n\nThe trend is strikingly clear: at every activity level, generalist users are much more likely to remain on Spotify than specialist users. Furthermore, the effect is very large. For example, among the least active users, specialists churn at a rate 30 percentage points (p.p.) higher than the global average, whereas the same figure is only 5 p.p. above average for generalists at the same activity level. Among highly active users, the specialists’ churn rate is 3 p.p above average while generalists churn 7 p.p below average. Additionally, at the higher activity levels, changes in the GS-score are much more associated with changes in user retention than changes in activity are (the high-activity curves in Figure 5 start to overlap each other). This is especially remarkable given that user engagement (i.e. activity) is traditionally the strongest predictor of user retention. (Anderson et al. 2020)\n\n\nThere are varieties of online infrastructure that have been prepared by many educational firms and made free for learning during this pandemic. The affordability and accessibility to these online infrastructures for all the learners of varied economic backgrounds are still a challenge. Students with special needs having learning difficulties, such as hearing impairment, visual impairment and mobility disabilities, require additional training with support and guidance. Many caregivers and parents at home are not able to cater to such needs, hindering the learning of this group of learners. Therefore, there is a need for investing time and resources to explore and research the best alternatives for the special educational needs (SEN) of these learners. As all students’ assignments and examinations are carried out from home, it is challenging for educators to find the authenticity of the work and the actual learning taking place. Moreover, many parents guide and support their children during their learning process, and the extent and degree of support varies greatly. Grading of students is another area of study as no proper criteria are developed and effectively used. (Pokhrel and Chhetri 2021)\n\n\nReferences\n\nPokhrel and Chhetri (2021) Anderson et al. (2020)\n\nAnderson, Ashton, Lucas Maystre, Ian Anderson, Rishabh Mehrotra, and Mounia Lalmas. 2020. “Algorithmic Effects on the Diversity of Consumption on Spotify.” In Proceedings of the Web Conference 2020, 2155–65.\n\n\nPokhrel, Sumitra, and Roshan Chhetri. 2021. “A Literature Review on Impact of COVID-19 Pandemic on Teaching and Learning.” Higher Education for the Future 8 (1): 133–41."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Lab 1.2",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nGeorge Orwell, “Politics and the English Language,” The Orwell Foundation, n.d., https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/↩︎"
+  }
+]
